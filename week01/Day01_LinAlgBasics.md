@@ -192,3 +192,5 @@ If $\vec{v}_2 = 2\vec{v}_1$ → span is a line, not a plane.
 | Unit vector           | $\hat{v} = v / \|v\|$                     | $[3,4] \Rightarrow [0.6,0.8]$             |
 | Parameterized line    | $r(t) = p + td$                           | $[1+3t, 2-t]$                             |
 | Span                  | All linear combinations of vectors        | $\text{Span}([1,0],[0,1]) = \mathbb{R}^2$ |
+
+
